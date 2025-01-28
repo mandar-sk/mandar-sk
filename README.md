@@ -1,13 +1,11 @@
 # About Me🙋‍♂️:
 Hello! I'm Mandar Kadam, an AI enthusiast with a strong engineering foundation and a former Quality Assurance Manager, now specializing in business analytics and data science. During my time in operations and quality management, I gained invaluable experience in data analysis, synthesis, and strategic decision-making—experiences that sparked my passion for the transformative power of data.
-<br><br>
 
-Currently, I’m pursuing a Master’s in Business Analytics at the Indian Institute of Science, Bangalore—India’s first-of-its-kind program which integrates business, data science, statistics, machine learning, and computing capabilities while focusing on contemporary business applications.
+<br>Currently, I’m pursuing a Master’s in Business Analytics at the Indian Institute of Science, Bangalore—India’s first-of-its-kind program which integrates business, data science, statistics, machine learning, and computing capabilities while focusing on contemporary business applications.
 
-<br><br>
-I am deeply passionate about Generative AI research that pushes the boundaries of technology. My areas of expertise include Machine Learning, Deep Learning, Natural Language Processing, and Financial Risk Assessment. I also keep myself updated with the latest tech trends and advancements to stay ahead in the field.
+<br>I am deeply passionate about Generative AI research that pushes the boundaries of technology. My areas of expertise include Machine Learning, Deep Learning, Natural Language Processing, and Financial Risk Assessment. I also keep myself updated with the latest tech trends and advancements to stay ahead in the field.
 
-I look forward to connecting with like-minded individuals who are also passionate about leveraging data to drive business success. Let's connect and explore opportunities to collaborate on groundbreaking AI projects! You can reach me via **[LinkedIn](https://www.linkedin.com/in/mandarsk/)**. and say hello :)
+<br>I look forward to connecting with like-minded individuals who are also passionate about leveraging data to drive business success. Let's connect and explore opportunities to collaborate on groundbreaking AI projects! You can reach me via **[LinkedIn](https://www.linkedin.com/in/mandarsk/)**. and say hello :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandarsk/) 
