@@ -99,11 +99,11 @@ _Authorized by Microsoft, offered by Coursera._
 ## Academic Courses
 
 > **Mathematics Core**  
-`Probability Theory`, `Applied Statistics`, `Random Processes`, `Linear and Non-linear programming` 
+Probability Theory, Applied Statistics, Random Processes, Linear and Non-linear programming
 
 > **Management Core**  
-`Finance & Accounts`, `Financial Risk Management`, `Marketing Management`, `Operations Research`, `Operations Management`,
-`Micro Economics`, `Macro Economics`, `Behavioural Science`, `Human Resource Management`, 
+Finance & Accounts, Financial Risk Management, Marketing Management, Operations Research, Operations Management,
+Micro Economics, Macro Economics, Behavioural Science, Human Resource Management 
 
 > **Data Science Core**  
-`Machine Learning`, `Natural Language Processing`, `Data Mining`, `Decision Models`, `Regression and Time Series Analysis`, `Research Methodology`
+Machine Learning, Natural Language Processing, Data Mining, Decision Models, Regression & Time Series Analysis, Research Methodology
