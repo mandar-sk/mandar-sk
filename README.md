@@ -76,6 +76,7 @@
 
 > **R-Based-Statistical-Distribution-Analysis-Toolkit** `Dec 2024`
 > - Created a toolkit which offers a robust approach for analyzing sampling distributions across various statistical measures and distributions using R. It systematically explores the impact of distribution characteristics and sample sizes on the convergence to normality of sample statistics.
+> - GitHub repository: **https://github.com/mandar-sk/R-Based-Statistical-Distribution-Analysis-Toolkit**
 
 > **Real Estate Price Prediction and Recommendation System** `Nov 2024`
 > - Developed an end-to-end real estate data science application, with data scraping from 99 Acres website, did meticulous data cleaning, feature engineering, and EDA, to facilitate a deeper understanding of data distribution and structure.
