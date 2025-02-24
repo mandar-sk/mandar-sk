@@ -1,13 +1,16 @@
 # MANDAR SANJAY KADAM
 # MASTER OF MANAGEMENT (BUSINESS ANALYTICS)
 
-[<img align="left" alt="Sugata Ghosh | Gmail" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" alt="Mandar Kadam | Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
-[<img align="left" alt="Sugata Ghosh | Linkedin" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Mandar Kadam | Outlook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />][outlook]
 
-[<img align="left" alt="Sugata Ghosh | Kaggle" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
+[<img align="left" alt="Mandar Kadam | Linkedin" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
+
+[<img align="left" alt="Mandar Kadam | Kaggle" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
 
 [gmail]: mailto:mandarskkadam@gmail.com
+[outlook]: mailto:mandarkadam@iisc.ac.in
 [linkedin]: https://www.linkedin.com/in/mandarsk/
 [kaggle]: https://www.kaggle.com/mandark6199
 
