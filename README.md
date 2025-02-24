@@ -64,4 +64,22 @@
 > - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
 > - GitHub repository: **https://github.com/mandar-sk/Binomial_Tree_vs_Black_Scholes_for_option_pricing**
 
+## Certifications
 
+> **Machine Learning Specialization** `2025`  
+_Authorized by DeepLearning.AI, offered by Coursera._  
+
+> **Microsoft Power BI Data Analyst** `2024`  
+_Authorized by Microsoft, offered by Coursera._  
+**https://coursera.org/share/6908b04c74a943e897dcef908feaf199**
+
+## Academic Courses
+
+> **Mathematics Core**  
+`Probability Theory`, `Applied Statistics`, `Random Processes`, `Linear and Non-linear programming` 
+
+> **Management Core**  
+`Finance & Accounts`, `Financial Risk Management`, `Marketing Management`, `Operations Research`, `Operations Management`, `Micro Economics`, `Macro Economics`, `Behavioural Science`, `Human Resource Management`, 
+
+> **Data Science Core**  
+`Machine Learning`, `Natural Language Processing`, `Data Mining`, `Decision Models`, `Regression and Time Series Analysis`, `Research Methodology`
