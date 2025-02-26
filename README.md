@@ -58,7 +58,7 @@
 
 - **AIR-74** in GATE Engineering Sciences (XE) paper `2024`
 
-## Data Science and Machine Learning Projects
+## Projects
 
 > **Binomial_Tree_vs_Black_Scholes_for_Option_Pricing** `Feb 2025`
 > - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
