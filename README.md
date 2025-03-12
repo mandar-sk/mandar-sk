@@ -1,4 +1,4 @@
-# MANDAR SANJAY KADAM
+![image](https://github.com/user-attachments/assets/e5fc2205-a7fb-443c-b667-d480e8258d3c)![image](https://github.com/user-attachments/assets/b91e2da7-538b-4cc0-8b25-aa1ae96d59df)# MANDAR SANJAY KADAM
 # Master OF Management (Business Analytics)
 
 [<img align="left" alt="Mandar Kadam | Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
@@ -60,11 +60,18 @@
 
 ## Projects
 
+> **Implied Volatility Prediction using LSTM Networks for European Equity Options** `Jan 2025`
+> - Developed an LSTM-based model to predict the implied volatility across multiple strike prices, capturing variations in IV skew for European options on the NSE Nifty 50 index.
+> - Engineered financial features such as Log Forward Moneyness, Days to Maturity, and IV from neighboring strike prices, enhancing model input by incorporating financial insights and domain-specific metrics to improve IV forecasting.
+> - Employed Grid Search to tune LSTM parameters, optimizing the number of units, dropout rate, batch size, and epochs.
+> - Achieved superior performance with LSTM (MAE: 0.857, MAPE: 5.49%) over AR models (MAE: 1.477, MAPE: 9.64%), demonstrating enhanced accuracy in forecasting IV surfaces.
+> - Visualized volatility smiles for tactical trading insights, enabling strategies like arbitrage and hedging by predicting IV trends across strike prices.
+
 > **Binomial_Tree_vs_Black_Scholes_for_Option_Pricing** `Feb 2025`
 > - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
 > - GitHub repository: **https://github.com/mandar-sk/Binomial_Tree_vs_Black_Scholes_for_option_pricing**
 
-> **Beyond Credit Scores: A Predictive Model for Loan Defaults** `Jan 2025`
+> **Beyond Credit Scores: A Predictive Model for Loan Defaults** `Mar 2025`
 > - Developed a predictive model to assess the probability of loan default (“charge-off”) enabling data-driven risk assessment for lending decisions using Kaggle Lending Club's historical loan data with over 887K observations and 150 features.
 > - Preprocessed and engineered features from the extensive dataset, addressing class imbalance via stratified sampling and reducing the feature space to 34 key variables (e.g., FICO score, loan term, income) for improved model performance.
 > - Evaluated multiple machine learning algorithms, achieving 86% accuracy, an 87% F1-score, and a 93% AUC-ROC on validation data with a Gradient Boosting Classifier optimized through GridSearchCV hyperparameter tuning.
