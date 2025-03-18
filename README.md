@@ -60,13 +60,6 @@
 
 ## Projects
 
-> **Implied Volatility Prediction using LSTM Networks for European Equity Options** `Jan 2025`
-> - Developed an LSTM-based model to predict the implied volatility across multiple strike prices, capturing variations in IV skew for European options on the NSE Nifty 50 index.
-> - Engineered financial features such as Log Forward Moneyness, Days to Maturity, and IV from neighboring strike prices, enhancing model input by incorporating financial insights and domain-specific metrics to improve IV forecasting.
-> - Employed Grid Search to tune LSTM parameters, optimizing the number of units, dropout rate, batch size, and epochs.
-> - Achieved superior performance with LSTM (MAE: 0.857, MAPE: 5.49%) over AR models (MAE: 1.477, MAPE: 9.64%), demonstrating enhanced accuracy in forecasting IV surfaces.
-> - Visualized volatility smiles for tactical trading insights, enabling strategies like arbitrage and hedging by predicting IV trends across strike prices.
-
 > **Binomial_Tree_vs_Black_Scholes_for_Option_Pricing** `Feb 2025`
 > - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
 > - GitHub repository: **https://github.com/mandar-sk/Binomial_Tree_vs_Black_Scholes_for_option_pricing**
