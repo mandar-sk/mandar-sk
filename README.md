@@ -73,6 +73,7 @@
 > **E-commerce Intelligence: Harnessing ML & NLP for Consumer Segmentation and Product Recommendations** `Dec 2024`
 > - Analyzed Amazon order histories to segment customers from high to low value using K-means clustering. Applied statistical techniques to uncover demographic influences on spending patterns, providing insights into targeted marketing strategies.
 > - Implemented NLP techniques to categorize products based on their descriptions. Employed TF-IDF vectorizer and Word2Vec embedder with various classifiers. Achieved the highest validation accuracy with the integration of TF-IDF vectorization and a Linear SVM, enabling precise product classification critical for recommending the most relevant products to customers.
+> - GitHub repository: **https://github.com/mandar-sk/Amazon-Customer-Segmentation-with-Machine-Learning-and-NLP**
 
 > **R-Based-Statistical-Distribution-Analysis-Toolkit** `Dec 2024`
 > - Created a toolkit which offers a robust approach for analyzing sampling distributions across various statistical measures and distributions using R. It systematically explores the impact of distribution characteristics and sample sizes on the convergence to normality of sample statistics.
