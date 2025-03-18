@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5fc2205-a7fb-443c-b667-d480e8258d3c)![image](https://github.com/user-attachments/assets/b91e2da7-538b-4cc0-8b25-aa1ae96d59df)# MANDAR SANJAY KADAM
+# MANDAR SANJAY KADAM
 # Master OF Management (Business Analytics)
 
 [<img align="left" alt="Mandar Kadam | Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
@@ -85,8 +85,9 @@
 > - Built 3 distinct recommendation models tailored to different real estate facets—facilities, pricing, and location advantages. Integrated a user-friendly recommendation interface, significantly improving accessibility and user experience.
      
 > **Optimizing Portfolio Construction: A Comparative Analysis of Quadratic Programming and Monte Carlo Simulation** `Oct 2024`
-> - Engineered a user-driven portfolio optimization tool leveraging Quadratic Programming & Dirichlet distributed Monte Carlo simulation to generate efficient frontiers based on historical data of Indian stocks.
-> - This tool enables users to input their desired return or risk tolerance and provides an efficient diversified portfolio.
+> - Engineered a dynamic portfolio optimization tool leveraging Quadratic Programming & Dirichlet distributed Monte Carlo simulation to construct efficient frontiers based on historical stock market data. Created an interactive dashboard that allows investors to input risk tolerance or target return, providing optimized, diversified asset allocations tailored to financial goals.
+> - Employed SML and CAPM to assess the portfolio’s expected return against Beta, validating a risk-adjusted strategy. Further Beta analysis ensures a balanced risk-return trade-off, enhancing portfolio efficiency over market benchmarks (NIFTY 50).
+> - GitHub repository: **https://github.com/mandar-sk/Risk-Optimized-Portfolio-Construction-with-Dirichlet-distributed-Monte-Carlo-simulation**
 
 ## Certifications
 
