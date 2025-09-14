@@ -1,5 +1,5 @@
 # MANDAR SANJAY KADAM
-# Master OF Management (Business Analytics)
+# Masters in Data Science & Business Analytics
 
 [<img align="left" alt="Mandar Kadam | Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
