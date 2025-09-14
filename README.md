@@ -64,23 +64,28 @@
 > - Implemented a model interpretation framework that identified Left Ventricular Global Longitudinal Strain (LVGLS), LVEF, and RVGLS as the most critical predictors, providing clinically relevant insights for early cardiac risk assessment.
 > - GitHub repository: **https://github.com/mandar-sk/CANCER_CARDIAC_MACHINE_LEARNING**
 
-> **Binomial_Tree_vs_Black_Scholes_for_Option_Pricing** 
-> - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
-> - GitHub repository: **https://github.com/mandar-sk/Binomial_Tree_vs_Black_Scholes_for_option_pricing**
-
 > **E-commerce Intelligence: Harnessing ML & NLP for Consumer Segmentation and Product Recommendations** 
 > - Analyzed Amazon order histories to segment customers from high to low value using K-means clustering. Applied statistical techniques to uncover demographic influences on spending patterns, providing insights into targeted marketing strategies.
 > - Implemented NLP techniques to categorize products based on their descriptions. Employed TF-IDF vectorizer and Word2Vec embedder with various classifiers. Achieved the highest validation accuracy with the integration of TF-IDF vectorization and a Linear SVM, enabling precise product classification critical for recommending the most relevant products to customers.
 > - GitHub repository: **https://github.com/mandar-sk/Amazon-Customer-Segmentation-with-Machine-Learning-and-NLP**
 
-> **R-Based-Statistical-Distribution-Analysis-Toolkit** 
-> - Created a toolkit which offers a robust approach for analyzing sampling distributions across various statistical measures and distributions using R. It systematically explores the impact of distribution characteristics and sample sizes on the convergence to normality of sample statistics.
-> - GitHub repository: **https://github.com/mandar-sk/R-Based-Statistical-Distribution-Analysis-Toolkit**
-
 > **Optimizing Portfolio Construction: A Comparative Analysis of Quadratic Programming and Monte Carlo Simulation** 
 > - Engineered a dynamic portfolio optimization tool leveraging Quadratic Programming & Dirichlet distributed Monte Carlo simulation to construct efficient frontiers based on historical stock market data. Created an interactive dashboard that allows investors to input risk tolerance or target return, providing optimized, diversified asset allocations tailored to financial goals.
 > - Employed SML and CAPM to assess the portfolio’s expected return against Beta, validating a risk-adjusted strategy. Further Beta analysis ensures a balanced risk-return trade-off, enhancing portfolio efficiency over market benchmarks (NIFTY 50).
 > - GitHub repository: **https://github.com/mandar-sk/Risk-Optimized-Portfolio-Construction-with-Dirichlet-distributed-Monte-Carlo-simulation**
+
+> **Inventory Simulation and Policy Optimization** 
+> - Built a discrete-event simulation model of an (s, S) inventory system in Python (SimPy) and optimized policies to minimize long-run costs.
+> - Applied statistical techniques (Welch’s method, replication/deletion, confidence intervals) for accurate steady-state analysis with visual insights (contour and 3D plots).
+> - GitHub repository: **https://github.com/mandar-sk/Inventory_Model_with_Simpy**
+
+> **R-Based-Statistical-Distribution-Analysis-Toolkit** 
+> - Created a toolkit which offers a robust approach for analyzing sampling distributions across various statistical measures and distributions using R. It systematically explores the impact of distribution characteristics and sample sizes on the convergence to normality of sample statistics.
+> - GitHub repository: **https://github.com/mandar-sk/R-Based-Statistical-Distribution-Analysis-Toolkit**
+
+> **Binomial_Tree_vs_Black_Scholes_for_Option_Pricing** 
+> - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
+> - GitHub repository: **https://github.com/mandar-sk/Binomial_Tree_vs_Black_Scholes_for_option_pricing**
 
 ## Certifications
 
