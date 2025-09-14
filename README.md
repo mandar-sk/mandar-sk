@@ -7,8 +7,6 @@
 
 [<img align="left" alt="Mandar Kadam | Linkedin" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" alt="Mandar Kadam | Kaggle" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
-
 [gmail]: mailto:mandarskkadam@gmail.com
 [outlook]: mailto:mandarkadam@iisc.ac.in
 [linkedin]: https://www.linkedin.com/in/mandarsk/
@@ -59,6 +57,12 @@
 - **AIR-74** in GATE Engineering Sciences (XE) paper `2024`
 
 ## Projects
+
+> **Machine Learning for Early Detection of Cardiac Dysfunction in Cancer Patients** 
+> - Engineered a high-performance Gradient Boosting Machine (GBM) to detect early signs of cardiac dysfunction in cancer patients, achieving 99.5% accuracy and a 1.000 ROC-AUC score on a validation set of 220 patients.
+> - Conducted a comprehensive statistical analysis on 17 echocardiographic parameters using non-parametric tests (Mann-Whitney U, Cliff's δ) to validate significant differences between 500 cancer and 600 control patients.
+> - Implemented a model interpretation framework that identified Left Ventricular Global Longitudinal Strain (LVGLS), LVEF, and RVGLS as the most critical predictors, providing clinically relevant insights for early cardiac risk assessment.
+> - GitHub repository: **https://github.com/mandar-sk/CANCER_CARDIAC_MACHINE_LEARNING**
 
 > **Binomial_Tree_vs_Black_Scholes_for_Option_Pricing** 
 > - Compared the Greeks calculated by the Binomial Tree model and the Black-Scholes model, demonstrating how the Binomial Tree's results converge to those of the Black-Scholes as the number of steps in the tree increases. 
