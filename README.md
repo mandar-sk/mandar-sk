@@ -27,7 +27,7 @@
 ## Education
 
 > **Indian Institute of Science, Bangalore** `2024-2026`  
-> _Master of Management- Business Analytics_
+> _Masters in Data Science & Business Analytics_
 
 > **Pimpri Chinchwad College of Engineering, Pune** `2016-2020`  
 > _Bachelor of Engineering- Mechanical_
@@ -36,11 +36,11 @@
 
 > Languages: `Python`, `SQL`, `R`, `MATLAB`
 
-> Libraries: `NumPy`, `Pandas`, `Scikit-learn`, `Sci-Py`
+> Libraries: `NumPy`, `Pandas`, `Scikit-learn`, `Sci-Py`, `Simpy`, `Keras`, `Pytorch`, `Darts`
 
 > Technical: `Supervised & Unsupervised ML algorithms`, `NLP`, `LLM`
 
-> Statistical Software: `Minitab`
+> Statistical Software: `Minitab`, `Stata`
 
 ## Scholastic Achievements
 
