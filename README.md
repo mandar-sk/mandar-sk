@@ -26,9 +26,6 @@
 - Team Captain of a student design team — **1st Runner-Up nationally** and **19th internationally**  
 - **All-India Rank 74** in the **GATE examination**  
 
-- Passionate about projects at the intersection of **AI, business, and finance**.  
-- Open to collaborating with professionals and organizations leveraging **data for innovation and growth**.
-
 ## Education
 
 > **Indian Institute of Science, Bangalore** `2024-2026`  
