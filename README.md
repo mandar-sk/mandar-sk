@@ -3,7 +3,7 @@
 
 [<img align="left" alt="Mandar Kadam | Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
-[<img align="left" alt="Mandar Kadam | Outlook" width="35px" src="https://en.wikipedia.org/wiki/Outlook.com#/media/File:Microsoft_Outlook_Icon_(2025%E2%80%93present).svg" />][outlook]
+[<img align="left" alt="Mandar Kadam | Outlook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg" />][outlook]
 
 [<img align="left" alt="Mandar Kadam | Linkedin" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
 
